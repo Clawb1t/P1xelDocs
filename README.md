@@ -32,7 +32,7 @@ For questions or concerns about these Terms of Service, please contact us at cla
 
 By using P1xel, you acknowledge that you have read, understood, and agree to these Terms of Service.
 
-##Privacy Policy
+## Privacy Policy
 1. Information We Collect
 P1xel collects only the information you provide directly through your interactions with the bot, including:
 
